@@ -1,6 +1,6 @@
-#ifndef SHELL_H
+#ifndef SHELL
 
-#define SHELL_H
+#define SHELL
 
 
 
